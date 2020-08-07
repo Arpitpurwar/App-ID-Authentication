@@ -1,0 +1,5 @@
+---
+applications:
+ - name: M-Front
+   random-route: false
+   memory: 128M

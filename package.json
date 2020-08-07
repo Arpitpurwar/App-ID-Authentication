@@ -1,0 +1,27 @@
+{
+  "name": "App-ID-Authentication",
+  "version": "1.0.0",
+  "description": "Authentication &amp; Authorization on IBM App ID with Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arpitpurwar/App-ID-Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arpitpurwar/App-ID-Authentication/issues"
+  },
+  "homepage": "https://github.com/Arpitpurwar/App-ID-Authentication#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "ibmcloud-appid": "^6.1.1",
+    "passport": "^0.4.1",
+    "request": "^2.88.2"
+  }
+}
